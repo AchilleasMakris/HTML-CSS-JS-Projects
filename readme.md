@@ -30,39 +30,31 @@ To view and run the projects, you’ll need a web browser installed.
    ```
 
 ---
-## Projects
-### Accounting Company
-A fictional accounting service website created using flexbox to align the website containers.
-[Website Preview](https://pricing-dusky.vercel.app/)
+## 🚀 Projects
 
-### Codecademy Tea Cozy
-A fictional tea shop website created with a design spec and image assets provided by Codecademy.
-[Website Preview](https://codecademy-tea-cozy.vercel.app/)
+### 💼 [Accounting Company](https://pricing-dusky.vercel.app/)
+A fictional accounting service website built using **Flexbox** for aligning the website containers, creating a responsive layout.
 
-### CSS Grid Task Board
-A board of to-do items organized into columns using CSS Grid.
-[Website Preview](https://css-grid-task-board.vercel.app/)
+### 🍵 [Codecademy Tea Cozy](https://codecademy-tea-cozy.vercel.app/)
+A tea shop website based on a design spec and image assets provided by **Codecademy**. The project showcases responsive design and layout.
 
-### Dasmoto's Arts and Crafts
-A simple website for a fictional arts and crafts store, focusing on basic HTML and CSS.
-[Website Preview](https://dasmotos-arts-and-crafts.vercel.app/)
+### 🗂️ [CSS Grid Task Board](https://css-grid-task-board.vercel.app/)
+A **to-do list** board with items organized into columns using **CSS Grid**, making the layout simple and responsive.
 
-### Fotomatic Codecademy
-A responsive website project where the goal is to fix a broken version of the website.
-[Website Preview](https://fotomatic-codecademy.vercel.app/)
+### 🎨 [Dasmoto's Arts and Crafts](https://dasmotos-arts-and-crafts.vercel.app/)
+A simple website for a fictional **arts and crafts** store, focused on basic HTML and CSS techniques for a clean and structured design.
 
-### Pricing Grid Flexbox 2D 1D Project
-A project to create a pricing section with grid and flexbox.
-[Website Preview](https://pricing-grid-flexbox-2d-1d-project.vercel.app/)
+### 📸 [Fotomatic Codecademy](https://fotomatic-codecademy.vercel.app/)
+A project to restore a **responsive website** by fixing its broken layout and improving accessibility, mobile view, and visual design.
 
-### PupSpa Project
-A simple web page for a doggie daycare and grooming services shop, styled with CSS Grid.
-[Website Preview](https://pupspa-project.vercel.app/)
+### 💵 [Pricing Grid Flexbox 2D 1D Project](https://pricing-grid-flexbox-2d-1d-project.vercel.app/)
+A pricing section built using **Grid** and **Flexbox** to create responsive layouts that adjust seamlessly across devices.
 
-### Styles Cheatsheet
-A fictional accounting service website showcasing different styles and CSS properties.
-[Website Preview](https://styles-cheatsheet.vercel.app/)
+### 🐾 [PupSpa Project](https://pupspa-project.vercel.app/)
+A **doggie daycare and grooming services** website built using **CSS Grid** for a clean and responsive design, perfect for any pup lover.
 
-### Tsunami Coffee Codecademy
-A responsive web design project for a coffee shop, focusing on relative units and media queries.
-[Website Preview](https://tsunami-coffee-codecademy.vercel.app/)"# HTML-CSS-JS-Projects" 
+### 📋 [Styles Cheatsheet](https://styles-cheatsheet.vercel.app/)
+A comprehensive cheatsheet showcasing different **styles** and **CSS properties** with practical examples and clear explanations.
+
+### ☕ [Tsunami Coffee Codecademy](https://tsunami-coffee-codecademy.vercel.app/)
+A **responsive coffee shop website** built using relative units and **media queries** to ensure the layout adapts seamlessly to different screen sizes.
