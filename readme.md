@@ -25,7 +25,7 @@ To view and run the projects, you’ll need a web browser installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/HTML-Projects.git
+   git clone https://github.com/AchilleasMakris/HTML-Projects.git
    cd HTML-Projects
    ```
 
